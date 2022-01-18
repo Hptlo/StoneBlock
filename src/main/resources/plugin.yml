@@ -1,0 +1,7 @@
+main: de.dopebrot.stoneblock.Main
+version: 1.0
+load: startup
+name: StoneBlock
+depend: [DPU-Api]
+commands:
+  help:
